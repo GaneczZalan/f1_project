@@ -1,0 +1,136 @@
+﻿|***************************|
+    REFERENCE INFORMATION    
+|***************************|
+ Reference No.1 out of 1 
+
+Reference:
+   TYPE   : b_splsrf
+
+Status   : not in geometry
+
+
+Reference owner:
+ Model   :
+   NAME   : MAIN_FLOOR 
+   TYPE   : Part
+ Feature :
+
+    FEATURE NUMBER       502
+    INTERNAL FEATURE ID  61596
+    PARENTS = 2(#2) 3048(#79) 8046(#162) 15415(#222) 15450(#223) 16147(#251) 
+              16490(#253) 16833(#254) 18523(#264) 18618(#265) 18658(#267) 
+              18740(#268) 32858(#358) 42915(#397) 45796(#403) 61187(#493) 
+              61279(#497) 61356(#496) 61515(#499) 61570(#501) 6(#1) 
+    CHILDREN = 61676(#503) 61837(#507) 61848(#509) 61932(#513) 
+    TYPE = Style
+
+
+    FEATURE IS IN LAYER(S) :
+      STYLE - OPERATION = SHOWN
+
+    FEATURE'S ENTITIES AND GEOMETRY ARE IN LAYER(S):
+
+    Quilt created by feature 502, model MAIN_FLOOR.
+      QUILT - OPERATION = SHOWN
+
+RELATION                           PARAMETER                 NEW VALUE
+--------                           ---------                 --- -----
+
+*** Part relations driven by this feature:
+    STYLE FEATURE INFO
+    Name       Type        Geom Id            Referenced Features
+      DTM79   Datum Plane    61598
+                                           Reference geom Id:  46259
+                                           Reference geom Id:      7
+           Visible
+   ---------------------------------------------------------------
+    SF-10072   Surface
+              Patch Id       61638
+           Area = 960.2
+           Ctr grav = [ -641.4 70.77 1160 ]
+
+              Patch Id       61641
+           Area = 598.9
+           Ctr grav = [ -638.3 75.82 1045 ]
+
+              Patch Id       61645
+           Area = 331.5
+           Ctr grav = [ -640.4 66.76 1160 ]
+
+              Patch Id       61649
+           Area = 213
+           Ctr grav = [ -636 72.15 1045 ]
+
+                                           Boundary Curve:                61520
+                                           Boundary Edge:                 61272
+                                           Boundary Composite Curve:      61636
+                                                    Edge:                 61585
+                                                    Edge:                 46299
+                                           Boundary Composite Curve:      61637
+                                                    Edge:                 46258
+                                                    Edge:                 46259
+           Visible
+   ---------------------------------------------------------------
+    CF-10062   Planar Curve   61599            Plane:         61598
+                                           Vertex:        46259
+                                           Curve (Pxc):   61281
+           Num pts = 2, Length = 104.8
+           Ctr grav = [ -699.3 62.68 1231 ]
+           Visible
+   ---------------------------------------------------------------
+    SF-10064   Surface
+              Patch Id       61603
+           Area = 1.037e+04
+           Ctr grav = [ -730.9 57.33 1368 ]
+
+              Patch Id       61607
+           Area = 4009
+           Ctr grav = [ -704.9 55.19 1367 ]
+
+              Patch Id       61611
+           Area = 1.232e+04
+           Ctr grav = [ -675 52.74 1366 ]
+
+                                           Boundary Curve:                61599
+                                           Boundary Curve:                61281
+                                           Boundary Composite Curve:      61602
+                                                    Edge:                 46676
+                                                    Edge:                 46219
+                                                    Edge:                 46265
+                                           Boundary Edge:                 46262
+           Visible
+   ---------------------------------------------------------------
+    CF-10066   Free Curve     61620            Plane:             3
+                                           Curve (Cxc):   61599
+                                           Edge  (Cxc):   46259
+                                           Curve (Pnt):   61360
+                                           Edge (Align):    61613(Relaxed)
+           Num pts = 2, Length = 35.09
+           Ctr grav = [ -650.9 65.04 1215 ]
+           Visible
+   ---------------------------------------------------------------
+    SF-10069   Surface
+              Patch Id       61623
+           Area = 0
+           Ctr grav = [ -649 66.08 1218 ]
+
+                                           Boundary Curve:                61620
+                                           Boundary Composite Curve:      61622
+                                                    Curve:                61359
+                                           Boundary Curve:                61516
+                                           Boundary Curve:                61520
+           Visible
+   ---------------------------------------------------------------
+    SF-10071   Surface
+              Patch Id       61630
+           Area = 0
+           Ctr grav = [ -700.1 62.57 1217 ]
+
+                                           Boundary Curve:                61620
+                                           Boundary Composite Curve:      61629
+                                                    Curve:                61359
+                                           Boundary Curve:                61281
+                                           Boundary Curve:                61599
+                                           Tangent Connection (on 61599):   61603
+           Visible
+   ---------------------------------------------------------------
