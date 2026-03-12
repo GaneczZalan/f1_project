@@ -1,0 +1,122 @@
+﻿
+Pro/ENGINEER INTERFACE EXPORT LOG FILE
+
+STEP output for Assembly TEST_CAR.
+
+
+
+Option values used for this export.
+
+step_export_format                           AP242_E1
+export_3d_force_default_naming               NO
+intf3d_out_extend_surface                    YES
+intf3d_out_surface_deviation                 DEFAULT
+intf_out_as_bezier                           NO
+intf3d_out_force_surf_normals                NO
+intf_out_max_bspl_degree                     16
+
+
+Process began at: Thu Mar 12 23:32:46 2026
+
+Process finished at: Thu Mar 12 23:32:50 2026
+
+Total process time: 00:00:04.
+
+
+MODEL:   TEST_CAR_ASM
+OUTPUT FILE:  v2_car_sokadik_iter_03_13.stp
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                          8
+ADVANCED_FACE                                            2984
+APPLICATION_CONTEXT                                         1
+APPLICATION_PROTOCOL_DEFINITION                             1
+AREA_UNIT                                                  21
+AXIS1_PLACEMENT                                            10
+AXIS2_PLACEMENT_3D                                       1178
+BOUNDED_SURFACE                                           888
+B_SPLINE_CURVE_WITH_KNOTS                                5842
+B_SPLINE_SURFACE                                          888
+B_SPLINE_SURFACE_WITH_KNOTS                              2510
+CARTESIAN_POINT                                        477154
+CIRCLE                                                    777
+CLOSED_SHELL                                               12
+COLOUR_RGB                                                 26
+CONICAL_SURFACE                                            10
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION                     14
+CONVERSION_BASED_UNIT                                      35
+CURVE_STYLE                                              7553
+CYLINDRICAL_SURFACE                                        58
+DERIVED_UNIT                                               20
+DERIVED_UNIT_ELEMENT                                       82
+DESCRIPTIVE_REPRESENTATION_ITEM                            20
+DIRECTION                                                3400
+DRAUGHTING_PRE_DEFINED_COLOUR                               5
+DRAUGHTING_PRE_DEFINED_CURVE_FONT                           1
+EDGE_CURVE                                               7441
+EDGE_LOOP                                                3093
+ELLIPSE                                                     2
+FACE_BOUND                                                109
+FACE_OUTER_BOUND                                         2984
+FILE_DESCRIPTION                                            1
+FILE_NAME                                                   1
+FILE_SCHEMA                                                 1
+FILL_AREA_STYLE                                          2996
+FILL_AREA_STYLE_COLOUR                                   2996
+GEOMETRIC_REPRESENTATION_CONTEXT                           15
+GEOMETRIC_REPRESENTATION_ITEM                             888
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                        15
+GLOBAL_UNIT_ASSIGNED_CONTEXT                               15
+ITEM_DEFINED_TRANSFORMATION                                14
+LENGTH_UNIT                                                77
+LINE                                                      932
+MANIFOLD_SOLID_BREP                                        12
+MASS_MEASURE_WITH_UNIT                                     20
+MASS_UNIT                                                  40
+MEASURE_REPRESENTATION_ITEM                                62
+MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION     1
+NAMED_UNIT                                                162
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                             14
+ORIENTED_EDGE                                           14882
+OVER_RIDING_STYLED_ITEM                                    10
+PLANE                                                     206
+PLANE_ANGLE_MEASURE_WITH_UNIT                              15
+PLANE_ANGLE_UNIT                                           30
+PRESENTATION_LAYER_ASSIGNMENT                               6
+PRESENTATION_STYLE_ASSIGNMENT                           10549
+PRODUCT                                                    15
+PRODUCT_CONTEXT                                            15
+PRODUCT_DEFINITION                                         15
+PRODUCT_DEFINITION_CONTEXT                                  8
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE         15
+PRODUCT_DEFINITION_SHAPE                                   29
+PROPERTY_DEFINITION                                       140
+PROPERTY_DEFINITION_REPRESENTATION                        120
+RATIONAL_B_SPLINE_SURFACE                                 888
+REPRESENTATION                                            120
+REPRESENTATION_CONTEXT                                     15
+REPRESENTATION_ITEM                                       888
+REPRESENTATION_RELATIONSHIP                                14
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION            14
+SHAPE_ASPECT                                               20
+SHAPE_DEFINITION_REPRESENTATION                            35
+SHAPE_REPRESENTATION                                       27
+SHAPE_REPRESENTATION_RELATIONSHIP                          14
+SI_UNIT                                                   127
+SOLID_ANGLE_UNIT                                           15
+SPHERICAL_SURFACE                                          26
+STYLED_ITEM                                             10539
+SURFACE                                                   888
+SURFACE_OF_LINEAR_EXTRUSION                               102
+SURFACE_OF_REVOLUTION                                      10
+SURFACE_SIDE_STYLE                                       2996
+SURFACE_STYLE_FILL_AREA                                  2996
+SURFACE_STYLE_USAGE                                      2996
+TOROIDAL_SURFACE                                           62
+UNCERTAINTY_MEASURE_WITH_UNIT                              15
+VALUE_REPRESENTATION_ITEM                                   5
+VECTOR                                                   1034
+VERTEX_POINT                                             4512
+VOLUME_UNIT                                                21
+
+TOTAL                                                  579823
+
