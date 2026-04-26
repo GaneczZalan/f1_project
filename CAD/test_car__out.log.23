@@ -1,0 +1,122 @@
+﻿
+Pro/ENGINEER INTERFACE EXPORT LOG FILE
+
+STEP output for Assembly TEST_CAR.
+
+
+
+Option values used for this export.
+
+step_export_format                           AP242_E1
+export_3d_force_default_naming               NO
+intf3d_out_extend_surface                    YES
+intf3d_out_surface_deviation                 DEFAULT
+intf_out_as_bezier                           NO
+intf3d_out_force_surf_normals                NO
+intf_out_max_bspl_degree                     16
+
+
+Process began at: Sun Apr 26 19:13:05 2026
+
+Process finished at: Sun Apr 26 19:13:10 2026
+
+Total process time: 00:00:05.
+
+
+MODEL:   TEST_CAR_ASM
+OUTPUT FILE:  v7_car_fw_aoa_sus_aoa_louvers_04_26.stp
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                         13
+ADVANCED_FACE                                            4129
+APPLICATION_CONTEXT                                         1
+APPLICATION_PROTOCOL_DEFINITION                             1
+AREA_UNIT                                                  33
+AXIS1_PLACEMENT                                            30
+AXIS2_PLACEMENT_3D                                       3030
+BOUNDED_SURFACE                                          1178
+B_SPLINE_CURVE_WITH_KNOTS                                6754
+B_SPLINE_SURFACE                                         1178
+B_SPLINE_SURFACE_WITH_KNOTS                              2757
+CARTESIAN_POINT                                        545493
+CIRCLE                                                   1728
+CLOSED_SHELL                                               49
+COLOUR_RGB                                                 33
+CONICAL_SURFACE                                            58
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION                     19
+CONVERSION_BASED_UNIT                                      80
+CURVE_STYLE                                             10396
+CYLINDRICAL_SURFACE                                       560
+DERIVED_UNIT                                               62
+DERIVED_UNIT_ELEMENT                                      190
+DESCRIPTIVE_REPRESENTATION_ITEM                            62
+DIRECTION                                                8098
+DRAUGHTING_PRE_DEFINED_COLOUR                               5
+DRAUGHTING_PRE_DEFINED_CURVE_FONT                           1
+EDGE_CURVE                                              10274
+EDGE_LOOP                                                4256
+ELLIPSE                                                     2
+FACE_BOUND                                                127
+FACE_OUTER_BOUND                                         4129
+FILE_DESCRIPTION                                            1
+FILE_NAME                                                   1
+FILE_SCHEMA                                                 1
+FILL_AREA_STYLE                                          3986
+FILL_AREA_STYLE_COLOUR                                   3986
+GEOMETRIC_REPRESENTATION_CONTEXT                           20
+GEOMETRIC_REPRESENTATION_ITEM                            1178
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                        20
+GLOBAL_UNIT_ASSIGNED_CONTEXT                               20
+ITEM_DEFINED_TRANSFORMATION                                19
+LENGTH_UNIT                                               148
+LINE                                                     1914
+MANIFOLD_SOLID_BREP                                        49
+MASS_MEASURE_WITH_UNIT                                     60
+MASS_UNIT                                                 122
+MEASURE_REPRESENTATION_ITEM                               128
+MECHANICAL_DESIGN_GEOMETRIC_PRESENTATION_REPRESENTATION     1
+NAMED_UNIT                                                330
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                             19
+ORIENTED_EDGE                                           20548
+OVER_RIDING_STYLED_ITEM                                    65
+PLANE                                                     482
+PLANE_ANGLE_MEASURE_WITH_UNIT                              20
+PLANE_ANGLE_UNIT                                           40
+PRESENTATION_LAYER_ASSIGNMENT                              11
+PRESENTATION_STYLE_ASSIGNMENT                           14382
+PRODUCT                                                    20
+PRODUCT_CONTEXT                                            20
+PRODUCT_DEFINITION                                         20
+PRODUCT_DEFINITION_CONTEXT                                 10
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE         20
+PRODUCT_DEFINITION_SHAPE                                   39
+PROPERTY_DEFINITION                                       311
+PROPERTY_DEFINITION_REPRESENTATION                        249
+RATIONAL_B_SPLINE_SURFACE                                1178
+REPRESENTATION                                            249
+REPRESENTATION_CONTEXT                                     20
+REPRESENTATION_ITEM                                      1178
+REPRESENTATION_RELATIONSHIP                                19
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION            19
+SHAPE_ASPECT                                               62
+SHAPE_DEFINITION_REPRESENTATION                            82
+SHAPE_REPRESENTATION                                       69
+SHAPE_REPRESENTATION_RELATIONSHIP                          19
+SI_UNIT                                                   250
+SOLID_ANGLE_UNIT                                           20
+SPHERICAL_SURFACE                                          26
+STYLED_ITEM                                             14317
+SURFACE                                                  1178
+SURFACE_OF_LINEAR_EXTRUSION                                94
+SURFACE_OF_REVOLUTION                                      30
+SURFACE_SIDE_STYLE                                       3986
+SURFACE_STYLE_FILL_AREA                                  3986
+SURFACE_STYLE_USAGE                                      3986
+TOROIDAL_SURFACE                                          122
+UNCERTAINTY_MEASURE_WITH_UNIT                              20
+VALUE_REPRESENTATION_ITEM                                   7
+VECTOR                                                   2008
+VERTEX_POINT                                             6196
+VOLUME_UNIT                                                33
+
+TOTAL                                                  692120
+
