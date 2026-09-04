@@ -1,0 +1,98 @@
+﻿
+Pro/ENGINEER INTERFACE EXPORT LOG FILE
+
+STEP output for Part FRONT_WING_MERGE.
+
+
+
+Option values used for this export.
+
+step_export_format                           AP242_E1
+export_3d_force_default_naming               NO
+intf3d_out_extend_surface                    YES
+intf3d_out_surface_deviation                 DEFAULT
+intf_out_as_bezier                           NO
+intf3d_out_force_surf_normals                NO
+intf_out_max_bspl_degree                     16
+
+
+Process began at: Fri Sep  4 16:05:36 2026
+
+Process finished at: Fri Sep  4 16:05:36 2026
+
+Total process time: 00:00:00.
+
+
+MODEL:   FRONT_WING_MERGE
+OUTPUT FILE:  v14_merc_fw_caketin_fw_only_9_half.stp
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                     1
+ADVANCED_FACE                                        246
+APPLICATION_CONTEXT                                    1
+APPLICATION_PROTOCOL_DEFINITION                        1
+AREA_UNIT                                              2
+AXIS2_PLACEMENT_3D                                   103
+BOUNDED_SURFACE                                       93
+B_SPLINE_CURVE_WITH_KNOTS                            457
+B_SPLINE_SURFACE                                      93
+B_SPLINE_SURFACE_WITH_KNOTS                          206
+CARTESIAN_POINT                                    33644
+CIRCLE                                                74
+CLOSED_SHELL                                           4
+COLOUR_RGB                                            20
+CONVERSION_BASED_UNIT                                  6
+CYLINDRICAL_SURFACE                                   10
+DERIVED_UNIT                                           5
+DERIVED_UNIT_ELEMENT                                  14
+DESCRIPTIVE_REPRESENTATION_ITEM                        5
+DIRECTION                                            277
+DRAUGHTING_PRE_DEFINED_COLOUR                          5
+EDGE_CURVE                                           580
+EDGE_LOOP                                            247
+FACE_BOUND                                             1
+FACE_OUTER_BOUND                                     246
+FILE_DESCRIPTION                                       1
+FILE_NAME                                              1
+FILE_SCHEMA                                            1
+GEOMETRIC_REPRESENTATION_CONTEXT                       1
+GEOMETRIC_REPRESENTATION_ITEM                         93
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                    1
+GLOBAL_UNIT_ASSIGNED_CONTEXT                           1
+LENGTH_UNIT                                           10
+LINE                                                  60
+MANIFOLD_SOLID_BREP                                    4
+MASS_MEASURE_WITH_UNIT                                 5
+MASS_UNIT                                             10
+MEASURE_REPRESENTATION_ITEM                            9
+NAMED_UNIT                                            23
+ORIENTED_EDGE                                       1160
+PLANE                                                 19
+PLANE_ANGLE_MEASURE_WITH_UNIT                          1
+PLANE_ANGLE_UNIT                                       2
+PRESENTATION_LAYER_ASSIGNMENT                          1
+PRODUCT                                                1
+PRODUCT_CONTEXT                                        1
+PRODUCT_DEFINITION                                     1
+PRODUCT_DEFINITION_CONTEXT                             1
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE     1
+PRODUCT_DEFINITION_SHAPE                               1
+PROPERTY_DEFINITION                                   21
+PROPERTY_DEFINITION_REPRESENTATION                    16
+RATIONAL_B_SPLINE_SURFACE                             93
+REPRESENTATION                                        16
+REPRESENTATION_CONTEXT                                 1
+REPRESENTATION_ITEM                                   93
+SHAPE_ASPECT                                           5
+SHAPE_DEFINITION_REPRESENTATION                        6
+SHAPE_REPRESENTATION                                   5
+SI_UNIT                                               17
+SOLID_ANGLE_UNIT                                       1
+SURFACE                                               93
+SURFACE_OF_LINEAR_EXTRUSION                           11
+UNCERTAINTY_MEASURE_WITH_UNIT                          1
+VECTOR                                                71
+VERTEX_POINT                                         343
+VOLUME_UNIT                                            2
+
+TOTAL                                              38545
+
