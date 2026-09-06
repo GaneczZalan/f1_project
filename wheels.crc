@@ -11,7 +11,7 @@
 Feature number 10 (COPY GEOMETRY, id = 216) 
   in model FRONT_TIRE refers to:
 
-Feature number 19 (PUBLISHED GEOMETRY, id = 293) 
+Feature number 76 (PUBLISHED GEOMETRY, id = 293) 
   in model FRONT_RIM must follow after:
 
 Feature number 17 (EXTRUDE_2, id = 294) 
@@ -31,7 +31,7 @@ Feature number 10 (COPY GEOMETRY, id = 216)
 Feature number 10 (COPY GEOMETRY, id = 158) 
   in model REAR_TIRE refers to:
 
-Feature number 19 (PUBLISHED GEOMETRY, id = 285) 
+Feature number 85 (PUBLISHED GEOMETRY, id = 285) 
   in model REAR_RIM must follow after:
 
 Feature number 17 (EXTRUDE_2, id = 286) 
