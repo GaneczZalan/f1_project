@@ -15,16 +15,17 @@ Reference owner:
    TYPE   : Part
  Feature :
 
-    FEATURE NUMBER       470
-    INTERNAL FEATURE ID  105377
-    PARENTS = 105204(#469) 
+    FEATURE NUMBER       472
+    INTERNAL FEATURE ID  106146
+    PARENTS = 105841(#471) 
+    CHILDREN = 106195(#473) 
 
 
  PATCH
 
   NO.   ELEMENT NAME   INFO                                                     
   ---   -------------  -------------                                            
-   1    Reference      Quilt 206:F469(STYLE_58)                                 
+   1    Reference      Quilt 207:F471(STYLE_58)                                 
    2    Type           Patch                                                    
    3    Material Side  Side 2                                                   
    4    Feature Name   Defined                                                  
