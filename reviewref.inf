@@ -1,12 +1,12 @@
 ﻿|***************************|
     REFERENCE INFORMATION    
 |***************************|
- Reference No.1 out of 1 
+ Reference No.1 out of 2 
 
 Reference:
-   TYPE   : b_splsrf
+   TYPE   : edge
 
-Status   : in geometry (body id 10032)
+Status   : in geometry
 
 
 Reference owner:
@@ -15,19 +15,60 @@ Reference owner:
    TYPE   : Part
  Feature :
 
-    FEATURE NUMBER       472
-    INTERNAL FEATURE ID  106146
-    PARENTS = 105841(#471) 
-    CHILDREN = 106195(#473) 
+    FEATURE NUMBER       481
+    INTERNAL FEATURE ID  110506
+    PARENTS = 110004(#480) 
 
 
  PATCH
 
   NO.   ELEMENT NAME   INFO                                                     
   ---   -------------  -------------                                            
-   1    Reference      Quilt 207:F471(STYLE_58)                                 
+   1    Reference      Quilt 207:F480(STYLE_59)                                 
    2    Type           Patch                                                    
-   3    Material Side  Side 2                                                   
+   3    Material Side  Side 1                                                   
+   4    Feature Name   Defined                                                  
+
+
+
+    FEATURE'S ENTITIES AND GEOMETRY ARE IN LAYER(S):
+
+    Solid geometry of part MAIN_FLOOR.
+      SOLID_GEOM - OPERATION = SHOWN
+
+RELATION                           PARAMETER                 NEW VALUE
+--------                           ---------                 --- -----
+
+*** Part relations driven by this feature:
+|***************************|
+    REFERENCE INFORMATION    
+|***************************|
+ Reference No.2 out of 2 
+
+Reference:
+   TYPE   : edge
+
+Status   : in geometry
+
+
+Reference owner:
+ Model   :
+   NAME   : MAIN_FLOOR 
+   TYPE   : Part
+ Feature :
+
+    FEATURE NUMBER       481
+    INTERNAL FEATURE ID  110506
+    PARENTS = 110004(#480) 
+
+
+ PATCH
+
+  NO.   ELEMENT NAME   INFO                                                     
+  ---   -------------  -------------                                            
+   1    Reference      Quilt 207:F480(STYLE_59)                                 
+   2    Type           Patch                                                    
+   3    Material Side  Side 1                                                   
    4    Feature Name   Defined                                                  
 
 
