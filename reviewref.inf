@@ -1,7 +1,7 @@
 ﻿|***************************|
     REFERENCE INFORMATION    
 |***************************|
- Reference No.1 out of 2 
+ Reference No.1 out of 1 
 
 Reference:
    TYPE   : edge
@@ -15,62 +15,35 @@ Reference owner:
    TYPE   : Part
  Feature :
 
-    FEATURE NUMBER       481
-    INTERNAL FEATURE ID  110506
-    PARENTS = 110004(#480) 
+    FEATURE NUMBER       489
+    INTERNAL FEATURE ID  113677
+    PARENTS = 113634(#488) 
+    CHILDREN = 113765(#490) 113931(#491) 113937(#492) 113942(#493) 113947(#494) 
+              113991(#495) 114056(#496) 114064(#497) 114099(#498) 114112(#499) 
 
 
- PATCH
+ PROTRUSION: Extrude
 
-  NO.   ELEMENT NAME   INFO                                                     
-  ---   -------------  -------------                                            
-   1    Reference      Quilt 207:F480(STYLE_59)                                 
-   2    Type           Patch                                                    
-   3    Material Side  Side 1                                                   
-   4    Feature Name   Defined                                                  
+  NO.     ELEMENT NAME       INFO                                               
+  ---     -------------      -------------                                      
+   1      Feature Name       Defined                                            
+   2      Extrude Feat type  Solid                                              
+   3      Material           Add                                                
+   4      Body               Defined                                            
+   4.1    Use body           Selected                                           
+   4.2    Selected bodies    Body 21                                            
+   5      Section            Defined                                            
+   5.1    Reference Sketch   F488(SKETCH_110)                                   
+   6      Feature Form       Solid                                              
+   7      Direction          Side 2                                             
+   8      Depth              Defined                                            
+   8.1    Side One           Defined                                            
+   8.1.1  Side One Depth     None                                               
+   8.2    Side Two           Defined                                            
+   8.2.1  Side Two Depth     Variable                                           
+   8.2.2  Value              2.000                                              
 
-
-
-    FEATURE'S ENTITIES AND GEOMETRY ARE IN LAYER(S):
-
-    Solid geometry of part MAIN_FLOOR.
-      SOLID_GEOM - OPERATION = SHOWN
-
-RELATION                           PARAMETER                 NEW VALUE
---------                           ---------                 --- -----
-
-*** Part relations driven by this feature:
-|***************************|
-    REFERENCE INFORMATION    
-|***************************|
- Reference No.2 out of 2 
-
-Reference:
-   TYPE   : edge
-
-Status   : in geometry
-
-
-Reference owner:
- Model   :
-   NAME   : MAIN_FLOOR 
-   TYPE   : Part
- Feature :
-
-    FEATURE NUMBER       481
-    INTERNAL FEATURE ID  110506
-    PARENTS = 110004(#480) 
-
-
- PATCH
-
-  NO.   ELEMENT NAME   INFO                                                     
-  ---   -------------  -------------                                            
-   1    Reference      Quilt 207:F480(STYLE_59)                                 
-   2    Type           Patch                                                    
-   3    Material Side  Side 1                                                   
-   4    Feature Name   Defined                                                  
-
+    SECTION NAME = Sketch 110 
 
 
     FEATURE'S ENTITIES AND GEOMETRY ARE IN LAYER(S):
@@ -78,6 +51,11 @@ Reference owner:
     Solid geometry of part MAIN_FLOOR.
       SOLID_GEOM - OPERATION = SHOWN
 
+    FEATURE'S DIMENSIONS:
+    d1931 = (Displayed:) 2 General_Dims
+            (   Stored:) 2.0 ( 0.1, -0.1 ) 
+    DIMENSION IS IN LAYER(S) :
+      DIMS - OPERATION = SHOWN
 RELATION                           PARAMETER                 NEW VALUE
 --------                           ---------                 --- -----
 
